@@ -14,6 +14,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[](https://pbs.twimg.com/profile_banners/17713310/1451173479/1500x500)
+[![From Twitter Profile](https://github.com/mjabali/mjabali/blob/master/1451173479.jpeg)
 
 Hello and welcome... I'm [Marcelo Jabali](https://twitter.com/mjabali) and I lead the Developer Experience and Partner Enablement team for the Conversation Platform  at [Expedia Group](https://www.expediagroup.com), where we develop and maintain documentation, tutorials, samples, demos, training and technical content as well as support new and existing partners designing and developing their Virtual Agent (chatbot) applications.
