@@ -1,8 +1,7 @@
-### Hi there 👋
-
 <!--
 **mjabali/mjabali** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
+### Hi there 👋
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
@@ -14,3 +13,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+[!(https://pbs.twimg.com/profile_banners/17713310/1451173479/1500x500)]
+
+Hello and welcome... I'm [Marcelo Jabali](https://twitter.com/mjabali) and I lead the Developer Experience and Partner Enablement team for the Conversation Platform  at [Expedia Group](https://www.expediagroup.com), where we develop and maintain documentation, tutorials, samples, demos, training and technical content as well as support new and existing partners designing and developing their Virtual Agent (chatbot) applications.
