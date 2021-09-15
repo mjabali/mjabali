@@ -16,4 +16,6 @@ Here are some ideas to get you started:
 
 **![](https://github.com/mjabali/mjabali/blob/master/1451173479.jpeg)**
 
-Hello and welcome... I'm [Marcelo Jabali](https://twitter.com/mjabali) and I lead the Developer Experience and Partner Enablement team for the Conversation Platform  at [Expedia Group](https://www.expediagroup.com), where we develop and maintain documentation, tutorials, samples, demos, training and technical content as well as support new and existing partners designing and developing their Virtual Agent (chatbot) applications.
+Hello and welcome... I'm [Marcelo Jabali](https://twitter.com/mjabali) and I lead the Partner Relations and Engineering team at [Symbl.ai](https://symbl.ai/), where we manage partner relations, support partner activities and develop custom demos, extensions, plugins and marketplace offers as well as onboarding new partners into the [Symbl.ai](https://symbl.ai/) ecosystem.
+
+📫 You can catch me on [Twitter (@mjabali)](https://twitter.com/mjabali) or [LinkedIn](https://www.linkedin.com/in/jabali/).
