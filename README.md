@@ -16,6 +16,6 @@ Here are some ideas to get you started:
 
 **![](https://github.com/mjabali/mjabali/blob/master/1451173479.jpeg)**
 
-Hello and welcome... I'm [Marcelo Jabali](https://twitter.com/mjabali) and I lead the Partner and Solutions Engineering team at [Symbl.ai](https://symbl.ai/), where I manage partner relations, support partner activities and develop custom demos, extensions, plugins and marketplace offers as well as onboard new partners into the [Symbl.ai](https://symbl.ai/) ecosystem.
+Hello and welcome... I'm [Marcelo Jabali](https://twitter.com/mjabali) and I lead the Partner Success and Developer Enablement team at [Expedia Group](https://www.expediagroup.com/), where I manage partner relations, support partner activities and enable developers to use the services and capabilities Expedia Group offers internally and externally.
 
 📫 You can catch me on [Twitter (@mjabali)](https://twitter.com/mjabali) or [LinkedIn](https://www.linkedin.com/in/jabali/).
