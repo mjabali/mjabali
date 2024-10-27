@@ -16,6 +16,8 @@ Here are some ideas to get you started:
 
 **![](https://github.com/mjabali/mjabali/blob/master/1451173479.jpeg)**
 
-Hello and welcome... I'm [Marcelo Jabali](https://twitter.com/mjabali) and I lead the Partner Success and Developer Enablement team at [Expedia Group](https://www.expediagroup.com/), where I manage partner relations, support partner activities and enable developers to use the services and capabilities Expedia Group offers internally and externally.
+Hello and welcome... I'm [Marcelo Jabali](https://twitter.com/mjabali) and I lead the Developer Experience Product Management initiatives across all componenets of the developer ecosystem with the focus on developer productivity and satisfaction at [Expedia Group](https://www.expediagroup.com/).
 
-📫 You can catch me on [Twitter (@mjabali)](https://twitter.com/mjabali) or [LinkedIn](https://www.linkedin.com/in/jabali/).
+I live in San Diego, CA.
+
+📫 You can catch me on [X (@mjabali)](https://x.com/mjabali) or [LinkedIn](https://www.linkedin.com/in/jabali/).
